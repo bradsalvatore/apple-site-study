@@ -1,0 +1,1 @@
+This is a study of the apple website.
